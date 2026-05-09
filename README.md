@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://avrildc.vercel.app/logo.png" alt="Avril Logo" width="160" />
+  <img src="avril.png" alt="Avril Logo" width="160" />
   
   # 🌌 AVRIL: THE SYNC CORE
-  > High-Performance Discord Framework driven by **Sync API** Technology.
+  > High-Performance Discord Framework driven by **Sync API** Proprietary Technology.
   
   [![Developer](https://img.shields.io/badge/Developer-pytols-FFD1E8?style=for-the-badge&logo=visualstudiocode&logoColor=black)](https://pyt0ls.vercel.app)
   [![Git](https://img.shields.io/badge/Github-clipeix-00FFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/clipeix)
@@ -11,44 +11,41 @@
 
 ---
 
-## ⚡ The Sync Philosophy
-A **Avril** opera sob o conceito de **Total Sync Integration**. Diferente de bots convencionais, toda a nossa infraestrutura de dados e processamento de perfis utiliza a **Sync API**, garantindo que informações de usuários, badges, e estados globais estejam sempre em conformidade em microssegundos.
+## ⚡ About Avril
+A **Avril** é a solução definitiva para quem busca eficiência, automação e praticidade. Com funcionalidades avançadas, personalização intuitiva e integração total via **Sync API**, ela se adapta perfeitamente às suas necessidades. Seguro, confiável e de alta performance, este sistema transforma a experiência do usuário, otimizando processos e garantindo o desempenho máximo em cada interação.
 
-### 🛠️ Engenharia de Elite
-* **Runtime:** Node.js (Ambiente Mobile-Native via Termux/arm64)
-* **Data Protocol:** Sync API & Traumas/Pawsy Integration
-* **UI Engine:** Discord.js v14 Advanced Builders (Components V2)
-* **AI:** Groq LPU™ Inference (Llama 3 70B)
+### 🛠️ Elite Engineering
+* **Runtime:** Node.js Advanced Environment.
+* **Data Protocol:** Exclusive **Sync API** Integration (Real-time data mapping).
+* **UI Engine:** Discord.js v14 High-End Builders (Components V2).
+* **AI:** Groq LPU™ Inference System.
 
 ---
 
-## 🚀 Módulos Mega-Integrados
+## 🚀 Módulos Integrados
 
-### 🛡️ Administração & Governança (Advanced)
-Sistema robusto de gestão de guildas. Controle total sobre configurações do servidor, logs avançados e automação de cargos com hierarquia protegida.
+### 🛡️ Administração & Governança
+Gestão de guildas em nível corporativo. Controle absoluto sobre configurações, logs de auditoria e automação de hierarquias complexas.
 
-### 🔨 Moderação de Elite
-Módulo Anti-Raid e moderação punitiva integrada. Comandos de `ban`, `kick`, `timeout` e `warn` otimizados com persistência de dados e proteção contra evasão.
+### 🔨 Moderação Definitiva
+Módulo de segurança avançado com proteção Anti-Raid. Processamento instantâneo de sanções (Ban, Kick, Mute) com persistência de dados via Sync Core.
 
 ### 🎵 Sync-Music Stream
-Streaming de áudio de baixa latência. Processamento direto via FFmpeg no Termux, garantindo qualidade de estúdio mesmo em deploys mobile.
+Streaming de áudio de alta fidelidade com baixa latência, processado via engines de áudio de última geração para máxima imersão sonora.
 
-### 💎 Next-Gen UI (User Interface)
-Perfis ultra-detalhados que renderizam:
-* **Real-time Badges:** Sincronização direta com o banco de dados do Discord.
-* **Asset Mapping:** Nameplates e decorações de avatar via Sync API.
-* **Active Presence:** Monitoramento preciso de plataformas (Mobile, PC, Web).
+### 💎 User Interface (V2)
+Perfis dinâmicos com sincronização de Assets, Nameplates e Badges oficiais, extraídos diretamente através da nossa arquitetura Sync.
 
 ---
 
-## 🛠️ Setup & Deployment
+## 🛠️ Deployment
 
 ```bash
-# Clone the elite repository
+# Clone the repository
 git clone [https://github.com/clipeix/avril.git](https://github.com/clipeix/avril.git)
 
-# Core Dependencies (Sync Optimized)
-pkg install ffmpeg libsodium python-make nodejs-lts
+# Install dependencies
+npm install
 
-# Install & Fire
-npm install && npm start
+# Start the Core
+npm start
